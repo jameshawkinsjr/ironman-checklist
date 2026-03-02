@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ironman-checklist/static/css/main.e6c13ad2.css",
+    "main.js": "/ironman-checklist/static/js/main.e64a7003.js",
+    "index.html": "/ironman-checklist/index.html",
+    "main.e6c13ad2.css.map": "/ironman-checklist/static/css/main.e6c13ad2.css.map",
+    "main.e64a7003.js.map": "/ironman-checklist/static/js/main.e64a7003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e64a7003.js"
+  ]
+}
